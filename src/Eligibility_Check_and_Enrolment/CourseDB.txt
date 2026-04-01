@@ -1,0 +1,101 @@
+courseID,courseName,credits,semester,instructor
+C001,Database Systems,4,Summer,Dr. Miller
+C002,Chemistry,3,Spring,Dr. Lee
+C003,History,2,Fall,Prof. Smith
+C004,Algorithms,4,Fall,Dr. Lee
+C005,Mathematics,4,Fall,Prof. Chen
+C006,Operating Systems,4,Spring,Dr. Johnson
+C007,Chemistry,4,Summer,Prof. Chen
+C008,Economics,4,Summer,Dr. Miller
+C009,Operating Systems,2,Spring,Dr. Kumar
+C010,Database Systems,2,Summer,Dr. Johnson
+C011,Mathematics,4,Summer,Dr. Kumar
+C012,Physics,3,Fall,Prof. Davis
+C013,Statistics,4,Fall,Prof. Smith
+C014,Philosophy,4,Fall,Prof. Smith
+C015,Networking,4,Fall,Prof. Smith
+C016,Software Engineering,4,Summer,Dr. Johnson
+C017,Data Structures,2,Spring,Dr. Johnson
+C018,Machine Learning,3,Fall,Prof. Davis
+C019,Computer Science,3,Summer,Prof. Chen
+C020,Biology,3,Fall,Prof. Davis
+C021,Physics,2,Spring,Dr. Johnson
+C022,Networking,2,Summer,Dr. Kumar
+C023,Literature,4,Summer,Dr. Kumar
+C024,Machine Learning,4,Spring,Prof. Smith
+C025,Statistics,3,Fall,Dr. Brown
+C026,English Composition,3,Summer,Dr. Miller
+C027,Cybersecurity,4,Spring,Dr. Brown
+C028,Operating Systems,4,Spring,Dr. Miller
+C029,Data Structures,2,Fall,Dr. Kumar
+C030,Statistics,3,Spring,Dr. Johnson
+C031,English Composition,3,Summer,Prof. Chen
+C032,Economics,4,Summer,Dr. Brown
+C033,Chemistry,4,Spring,Dr. Lee
+C034,Software Engineering,3,Fall,Dr. Lee
+C035,Chemistry,2,Fall,Prof. Davis
+C036,Software Engineering,4,Summer,Dr. Brown
+C037,Algorithms,4,Summer,Prof. Davis
+C038,English Composition,3,Summer,Dr. Kumar
+C039,Chemistry,3,Spring,Prof. Davis
+C040,Database Systems,2,Spring,Dr. Brown
+C041,Cybersecurity,3,Summer,Prof. Davis
+C042,Philosophy,4,Fall,Dr. Johnson
+C043,English Composition,3,Fall,Dr. Lee
+C044,Algorithms,3,Fall,Dr. Johnson
+C045,Artificial Intelligence,3,Summer,Dr. Miller
+C046,Software Engineering,2,Summer,Dr. Johnson
+C047,Operating Systems,3,Summer,Dr. Johnson
+C048,Chemistry,3,Summer,Prof. Smith
+C049,Mathematics,3,Fall,Dr. Miller
+C050,Chemistry,3,Spring,Dr. Johnson
+C051,Finance Management,4,Fall,Dr. Miller
+C052,History,3,Fall,Dr. Kumar
+C053,Moral Studies,2,Spring,Prof. Smith
+C054,Object Oriented Programming,2,Fall,Dr. Brown
+C055,Economics,3,Summer,Prof. Davis
+C056,Research Skills,3,Spring,Dr. Lee
+C057,Logistics,3,Spring,Dr. Johnson
+C058,Business Administrator,2,Spring,Dr. Miller
+C059,Engineering,4,Spring,Dr. Lee
+C060,Digital Transformation,3,Summer,Dr. Brown
+C061,Cloud Computing,2,Fall,Prof. Smith
+C062,Finance Management,3,Summer,Prof. Smith
+C063,Geography,3,Summer,Dr. Johnson
+C064,Game Development,2,Spring,Prof. Chen
+C065,Computer Science,3,Spring,Prof. Smith
+C066,French Language,4,Spring,Prof. Davis
+C067,Blockchain,2,Summer,Dr. Brown
+C068,Python Programming,2,Summer,Dr. Lee
+C069,Physics,4,Summer,Prof. Davis
+C070,Biology,3,Spring,Dr. Miller
+C071,Cybersecurity,3,Fall,Dr. Kumar
+C072,Moral Studies,4,Spring,Prof. Smith
+C073,Python Programming,4,Fall,Dr. Johnson
+C074,Cloud Computing,4,Summer,Prof. Chen
+C075,Web Design,4,Spring,Prof. Smith
+C076,Digital Thinking,3,Spring,Prof. Davis
+C077,Blockchain,3,Fall,Dr. Kumar
+C078,French Language,2,Spring,Dr. Lee
+C079,Game Development,3,Summer,Dr. Brown
+C080,Literature,2,Fall,Dr. Miller
+C081,Artificial Intelligence,2,Spring,Dr. Johnson
+C082,Object Oriented Programming,4,Spring,Prof. Chen
+C083,Geography,3,Fall,Prof. Smith
+C084,Research Skills,2,Summer,Prof. Chen
+C085,Engineering,4,Spring,Prof. Davis
+C086,Logistics,3,Spring,Dr. Lee
+C087,Cloud Computing,2,Fall,Dr. Brown
+C088,Web Design,3,Fall,Dr. Kumar
+C089,Business Administrator,2,Summer,Dr. Kumar
+C090,Python Programming,4,Spring,Dr. Brown
+C091,Finance Management,3,Fall,Dr. Johnson
+C092,Digital Transformation,2,Spring,Prof. Chen
+C093,Digital Thinking,3,Fall,Prof. Davis
+C094,Web Design,2,Summer,Dr. Miller
+C095,Blockchain,4,Summer,Dr. Brown
+C096,Digital Thinking,2,Fall,Dr. Johnson
+C097,Game Development,3,Fall,Prof. Chen
+C098,Data Structures,2,Spring,Prof. Smith
+C099,Philosophy,3,Summer,Prof. Smith
+C100,Networking,4,Fall,Prof. Davis
